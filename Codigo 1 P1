@@ -1,5 +1,7 @@
 /  He l l o World program  /
 #include<stdio . h>
 main( )
-
-printf( ”Hello world” ) ;
+{
+printf( ”Hello world” );
+printf(”Good Bye!”); //lineaagregada
+}
